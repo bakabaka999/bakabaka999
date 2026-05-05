@@ -64,6 +64,15 @@
   <img height="165" src="https://github-readme-stats-ten-fawn-43clv2mqfi.vercel.app/api/top-langs/?username=bakabaka999&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top Langs" />
 </div>
 
+<!-- 贪吃蛇动图 -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bakabaka999/bakabaka999/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bakabaka999/bakabaka999/output/github-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/bakabaka999/bakabaka999/output/github-snake.svg">
+  </picture>
+</div>
+
 ---
 
 ## 📫 联系我
